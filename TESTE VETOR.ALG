@@ -1,0 +1,30 @@
+Algoritmo "TESTE VETOR"
+
+Var
+   N,i:inteiro
+   vet: vetor[0..9] de real
+
+
+Inicio
+           escreva("Quantod numeros voc� vai digitar")
+           leia(N)
+           
+           para i de 0 ate N-1 faca
+           escreva("Digite um numero")
+           leia(vet[i])
+           fimpara
+           escreval
+           
+           escreval("Numeros digitados")
+           para i de 0 ate N-1 faca
+           escreval(vet[i])
+           fimpara
+           
+           
+
+
+
+
+
+
+Fimalgoritmo
